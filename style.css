@@ -170,13 +170,13 @@ text-transform: uppercase;
     background-repeat: no-repeat;
 }
 .socials li:nth-child(3){
-    background-image: url(images/fb.png);
+    background-image: url(Images/fb.png);
 }
 .socials li:nth-child(2){
-    background-image: url(images/vk.png);
+    background-image: url(Images/vk.png);
 }
 .socials li:nth-child(4){
-    background-image: url(images/inst.png);
+    background-image: url(Images/inst.png);
 }
 .delivery-price{
     font-weight: 400;
